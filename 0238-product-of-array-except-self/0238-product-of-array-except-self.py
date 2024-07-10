@@ -11,4 +11,7 @@ class Solution:
         for i in range(n - 2, -1, -1):
             suffix[i] = suffix[i + 1] * nums[i + 1]
 
+        print(prefix)
+        print(suffix)
+
         return [prefix[i] * suffix[i] for i in range(n)]
