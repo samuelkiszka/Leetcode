@@ -6,6 +6,7 @@ Submissions of my solved problems on Leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samuelkiszka/Leetcode/tree/master/0001-two-sum) |
 | [1720-crawler-log-folder](https://github.com/samuelkiszka/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/samuelkiszka/Leetcode/tree/master/1803-average-waiting-time) |
 ## Simulation
@@ -24,6 +25,7 @@ Submissions of my solved problems on Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samuelkiszka/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/samuelkiszka/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
