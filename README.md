@@ -18,10 +18,12 @@ Submissions of my solved problems on Leetcode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/samuelkiszka/Leetcode/tree/master/0242-valid-anagram) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samuelkiszka/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/samuelkiszka/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samuelkiszka/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/samuelkiszka/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
