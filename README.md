@@ -9,6 +9,7 @@ Submissions of my solved problems on Leetcode
 | [0001-two-sum](https://github.com/samuelkiszka/Leetcode/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/samuelkiszka/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1207-delete-nodes-and-return-forest](https://github.com/samuelkiszka/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samuelkiszka/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/samuelkiszka/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/samuelkiszka/Leetcode/tree/master/1803-average-waiting-time) |
 ## Simulation
@@ -46,6 +47,7 @@ Submissions of my solved problems on Leetcode
 ## Greedy
 |  |
 | ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samuelkiszka/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/samuelkiszka/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Tree
 |  |
@@ -62,4 +64,8 @@ Submissions of my solved problems on Leetcode
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/samuelkiszka/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/samuelkiszka/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Matrix
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samuelkiszka/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
