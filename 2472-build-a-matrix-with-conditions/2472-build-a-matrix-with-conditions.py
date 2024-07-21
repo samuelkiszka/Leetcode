@@ -1,10 +1,5 @@
 class Solution:
     def buildMatrix(self, k: int, rowConditions: List[List[int]], colConditions: List[List[int]]) -> List[List[int]]:
-        row_conds = set((i[0], i[1]) for i in rowConditions)
-        col_conds = set((i[0], i[1]) for i in colConditions)
-        res = [[0] * k for _ in range(k)]
-        pos = {i: [0, 0] for i in range(k + 1)}
-
         def get_order(conds):
             counts = [0] * k
             deps = {i: set() for i in range(k + 1)}
@@ -28,16 +23,21 @@ class Solution:
             
             return order if len(order) == k else None
 
+        row_conds = set((i[0], i[1]) for i in rowConditions)
+        col_conds = set((i[0], i[1]) for i in colConditions)
+
         row_order = get_order(row_conds)
         col_order = get_order(col_conds)
-        
+
         if not row_order or not col_order:
             return []
 
+        pos = {i: [0, 0] for i in range(k + 1)}
         for i in range(k):
             pos[row_order[i]][0] = i
             pos[col_order[i]][1] = i
 
+        res = [[0] * k for _ in range(k)]
         for i in range(k + 1):
             res[pos[i][0]][pos[i][1]] = i
 
