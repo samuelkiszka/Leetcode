@@ -5,53 +5,33 @@ class Solution:
         res = [[0] * k for _ in range(k)]
         pos = {i: [0, 0] for i in range(k + 1)}
 
-        # sort rows
-        r = [0] * k
-        deps = {i: set() for i in range(k + 1)}
-        for c in row_conds:
-            r[c[1] - 1] += 1
-            deps[c[0]].add(c[1])
+        def get_order(conds):
+            counts = [0] * k
+            deps = {i: set() for i in range(k + 1)}
+            for c in conds:
+                counts[c[1] - 1] += 1
+                deps[c[0]].add(c[1])
+            
+            stack = []
+            for i in range(k):
+                if counts[i] == 0:
+                    stack.append(i + 1)
+            
+            order = []
+            while stack:
+                cur = stack.pop(0)
+                order.append(cur)
+                for dep in deps[cur]:
+                    counts[dep - 1] -= 1
+                    if not counts[dep - 1]:
+                        stack.append(dep)
+            
+            return order if len(order) == k else None
+
+        row_order = get_order(row_conds)
+        col_order = get_order(col_conds)
         
-        stack = []
-        for i in range(k):
-            if not r[i]:
-                stack.append(i + 1)
-        
-        row_order = []
-        while stack:
-            cur = stack.pop(0)
-            row_order.append(cur)
-            for dep in deps[cur]:
-                r[dep - 1] -= 1
-                if not r[dep - 1]:
-                    stack.append(dep)
-
-        if len(row_order) != k:
-            return []
-
-        # sort cols
-        cols = [0] * k
-        deps = {i: set() for i in range(k + 1)}
-        for c in col_conds:
-            cols[c[1] - 1] += 1
-            deps[c[0]].add(c[1])
-
-        stack = []
-        for i in range(k):
-            if not cols[i]:
-                stack.append(i + 1)
-
-        col_order = []
-        while stack:
-            cur = stack.pop(0)
-            col_order.append(cur)
-            for dep in deps[cur]:
-                # print(f"{cur} -> {dep}")
-                cols[dep - 1] -= 1
-                if not cols[dep - 1]:
-                    stack.append(dep)
-
-        if len(col_order) != k:
+        if not row_order or not col_order:
             return []
 
         for i in range(k):
@@ -59,7 +39,6 @@ class Solution:
             pos[col_order[i]][1] = i
 
         for i in range(k + 1):
-            # print(i)
             res[pos[i][0]][pos[i][1]] = i
 
         return res
