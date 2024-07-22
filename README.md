@@ -13,6 +13,7 @@ Submissions of my solved problems on Leetcode
 | [1720-crawler-log-folder](https://github.com/samuelkiszka/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/samuelkiszka/Leetcode/tree/master/1803-average-waiting-time) |
 | [2472-build-a-matrix-with-conditions](https://github.com/samuelkiszka/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Submissions of my solved problems on Leetcode
 | [1720-crawler-log-folder](https://github.com/samuelkiszka/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/samuelkiszka/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/samuelkiszka/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -37,10 +39,12 @@ Submissions of my solved problems on Leetcode
 | [0001-two-sum](https://github.com/samuelkiszka/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/samuelkiszka/Leetcode/tree/master/0242-valid-anagram) |
 | [1207-delete-nodes-and-return-forest](https://github.com/samuelkiszka/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/samuelkiszka/Leetcode/tree/master/0242-valid-anagram) |
+| [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
