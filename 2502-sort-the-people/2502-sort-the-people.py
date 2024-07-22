@@ -1,5 +1,5 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
-        dic = [(heights[i], names[i]) for i in range(len(names))]
-        dic.sort(key=lambda x: x[0])
-        return [p[1] for p in dic[::-1]]
+        d = {heights[i]: names[i] for i in range(len(names))}
+        h = sorted(heights)
+        return [d[he] for he in h[::-1]]
