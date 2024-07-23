@@ -11,6 +11,7 @@ Submissions of my solved problems on Leetcode
 | [1207-delete-nodes-and-return-forest](https://github.com/samuelkiszka/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samuelkiszka/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/samuelkiszka/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/samuelkiszka/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/samuelkiszka/Leetcode/tree/master/1803-average-waiting-time) |
 | [2472-build-a-matrix-with-conditions](https://github.com/samuelkiszka/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
@@ -39,11 +40,13 @@ Submissions of my solved problems on Leetcode
 | [0001-two-sum](https://github.com/samuelkiszka/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/samuelkiszka/Leetcode/tree/master/0242-valid-anagram) |
 | [1207-delete-nodes-and-return-forest](https://github.com/samuelkiszka/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/samuelkiszka/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/samuelkiszka/Leetcode/tree/master/0242-valid-anagram) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/samuelkiszka/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
 ## Prefix Sum
 |  |
