@@ -29,6 +29,7 @@ Submissions of my solved problems on Leetcode
 | [1818-maximum-score-from-removing-substrings](https://github.com/samuelkiszka/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/samuelkiszka/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/samuelkiszka/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Submissions of my solved problems on Leetcode
 | [1207-delete-nodes-and-return-forest](https://github.com/samuelkiszka/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/samuelkiszka/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/samuelkiszka/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Submissions of my solved problems on Leetcode
 | [1333-sort-the-jumbled-numbers](https://github.com/samuelkiszka/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/samuelkiszka/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/samuelkiszka/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +62,7 @@ Submissions of my solved problems on Leetcode
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samuelkiszka/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/samuelkiszka/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/samuelkiszka/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -87,4 +91,8 @@ Submissions of my solved problems on Leetcode
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/samuelkiszka/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Counting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/samuelkiszka/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
