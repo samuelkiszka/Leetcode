@@ -24,6 +24,7 @@ Submissions of my solved problems on Leetcode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/samuelkiszka/Leetcode/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/samuelkiszka/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samuelkiszka/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/samuelkiszka/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/samuelkiszka/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -95,4 +96,12 @@ Submissions of my solved problems on Leetcode
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/samuelkiszka/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/samuelkiszka/Leetcode/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/samuelkiszka/Leetcode/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
