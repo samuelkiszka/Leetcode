@@ -3,6 +3,8 @@ class Solution:
         if len(original) != m*n:
             return []
         out = [[] for _ in range(m)]
-        for r in range(m):
-            out[r] = original[r*n: r*n+n]
+        i = 0
+        while i < m:
+            out[i] = original[i*n: i*n+n]
+            i += 1
         return out
