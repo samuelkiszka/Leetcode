@@ -15,6 +15,7 @@ Submissions of my solved problems on Leetcode
 | [1741-sort-array-by-increasing-frequency](https://github.com/samuelkiszka/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/samuelkiszka/Leetcode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samuelkiszka/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/samuelkiszka/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/samuelkiszka/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
 ## Simulation
@@ -23,6 +24,7 @@ Submissions of my solved problems on Leetcode
 | [1803-average-waiting-time](https://github.com/samuelkiszka/Leetcode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samuelkiszka/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samuelkiszka/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/samuelkiszka/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Submissions of my solved problems on Leetcode
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/samuelkiszka/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/samuelkiszka/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/samuelkiszka/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
 |  |
