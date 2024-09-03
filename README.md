@@ -14,12 +14,14 @@ Submissions of my solved problems on Leetcode
 | [1720-crawler-log-folder](https://github.com/samuelkiszka/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/samuelkiszka/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/samuelkiszka/Leetcode/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samuelkiszka/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2472-build-a-matrix-with-conditions](https://github.com/samuelkiszka/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/samuelkiszka/Leetcode/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/samuelkiszka/Leetcode/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samuelkiszka/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samuelkiszka/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## String
 |  |
@@ -60,6 +62,7 @@ Submissions of my solved problems on Leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samuelkiszka/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samuelkiszka/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
 | ------- |
@@ -106,4 +109,8 @@ Submissions of my solved problems on Leetcode
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/samuelkiszka/Leetcode/tree/master/0273-integer-to-english-words) |
+## Binary Search
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samuelkiszka/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
